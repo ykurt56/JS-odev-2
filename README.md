@@ -1,2 +1,7 @@
-# JS-odev-2
-Kodluyoruz Eğitimi kapsamında yaptığım JAVASCRİPT ödev 2 çalışması
+# Kodluyoruz JAVASCRİPT To Do List Çalışması
+
+- İçerik css, script ve html olarak 3 dosyadan oluşuyor.
+
+## Sitenin Görünümü
+
+![](to-do-list.gif)
